@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\weidn\\source\\repos\\Sensor_Tower_Take_Home_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66F93788-1921-4C7D-84E1-3A04507D9592}|DuplicateEntries.Test\\SensorTowerTakeHomeAssignment.Test.csproj|c:\\users\\weidn\\source\\repos\\sensor_tower_take_home_assignment\\duplicateentries.test\\duplicateentriestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F93788-1921-4C7D-84E1-3A04507D9592}|DuplicateEntries.Test\\SensorTowerTakeHomeAssignment.Test.csproj|solutionrelative:duplicateentries.test\\duplicateentriestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C83521-97A0-43FB-B0C9-4F11D9A2A60B}|Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment.csproj|c:\\users\\weidn\\source\\repos\\sensor_tower_take_home_assignment\\sensor_tower_take_home_assignment\\services\\duplicateentriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C83521-97A0-43FB-B0C9-4F11D9A2A60B}|Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment.csproj|solutionrelative:sensor_tower_take_home_assignment\\services\\duplicateentriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C83521-97A0-43FB-B0C9-4F11D9A2A60B}|Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment.csproj|c:\\users\\weidn\\source\\repos\\sensor_tower_take_home_assignment\\sensor_tower_take_home_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C83521-97A0-43FB-B0C9-4F11D9A2A60B}|Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment.csproj|solutionrelative:sensor_tower_take_home_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C83521-97A0-43FB-B0C9-4F11D9A2A60B}|Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment.csproj|c:\\users\\weidn\\source\\repos\\sensor_tower_take_home_assignment\\sensor_tower_take_home_assignment\\interfaces\\iduplicateentriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C83521-97A0-43FB-B0C9-4F11D9A2A60B}|Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment.csproj|solutionrelative:sensor_tower_take_home_assignment\\interfaces\\iduplicateentriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C83521-97A0-43FB-B0C9-4F11D9A2A60B}|Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment.csproj|c:\\users\\weidn\\source\\repos\\sensor_tower_take_home_assignment\\sensor_tower_take_home_assignment\\businesslogic\\duplicateentries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C83521-97A0-43FB-B0C9-4F11D9A2A60B}|Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment.csproj|solutionrelative:sensor_tower_take_home_assignment\\businesslogic\\duplicateentries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuplicateEntriesTest.cs",
+              "DocumentMoniker": "C:\\Users\\weidn\\source\\repos\\Sensor_Tower_Take_Home_Assignment\\DuplicateEntries.Test\\DuplicateEntriesTest.cs",
+              "RelativeDocumentMoniker": "DuplicateEntries.Test\\DuplicateEntriesTest.cs",
+              "ToolTip": "C:\\Users\\weidn\\source\\repos\\Sensor_Tower_Take_Home_Assignment\\DuplicateEntries.Test\\DuplicateEntriesTest.cs",
+              "RelativeToolTip": "DuplicateEntries.Test\\DuplicateEntriesTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T02:10:09.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DuplicateEntries.cs",
+              "DocumentMoniker": "C:\\Users\\weidn\\source\\repos\\Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment\\BusinessLogic\\DuplicateEntries.cs",
+              "RelativeDocumentMoniker": "Sensor_Tower_Take_Home_Assignment\\BusinessLogic\\DuplicateEntries.cs",
+              "ToolTip": "C:\\Users\\weidn\\source\\repos\\Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment\\BusinessLogic\\DuplicateEntries.cs",
+              "RelativeToolTip": "Sensor_Tower_Take_Home_Assignment\\BusinessLogic\\DuplicateEntries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T04:15:01.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDuplicateEntriesService.cs",
+              "DocumentMoniker": "C:\\Users\\weidn\\source\\repos\\Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment\\Interfaces\\IDuplicateEntriesService.cs",
+              "RelativeDocumentMoniker": "Sensor_Tower_Take_Home_Assignment\\Interfaces\\IDuplicateEntriesService.cs",
+              "ToolTip": "C:\\Users\\weidn\\source\\repos\\Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment\\Interfaces\\IDuplicateEntriesService.cs",
+              "RelativeToolTip": "Sensor_Tower_Take_Home_Assignment\\Interfaces\\IDuplicateEntriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:18:45.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DuplicateEntriesService.cs",
+              "DocumentMoniker": "C:\\Users\\weidn\\source\\repos\\Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment\\Services\\DuplicateEntriesService.cs",
+              "RelativeDocumentMoniker": "Sensor_Tower_Take_Home_Assignment\\Services\\DuplicateEntriesService.cs",
+              "ToolTip": "C:\\Users\\weidn\\source\\repos\\Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment\\Services\\DuplicateEntriesService.cs",
+              "RelativeToolTip": "Sensor_Tower_Take_Home_Assignment\\Services\\DuplicateEntriesService.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAgwDUAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:16:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\weidn\\source\\repos\\Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Sensor_Tower_Take_Home_Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\weidn\\source\\repos\\Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment\\Program.cs",
+              "RelativeToolTip": "Sensor_Tower_Take_Home_Assignment\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:16:01.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

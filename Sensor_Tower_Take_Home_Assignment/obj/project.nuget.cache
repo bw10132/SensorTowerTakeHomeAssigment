@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YGXzvIYh3/w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\weidn\\source\\repos\\Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment\\Sensor_Tower_Take_Home_Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\weidn\\.nuget\\packages\\fuzzysharp\\2.0.2\\fuzzysharp.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

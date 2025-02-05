@@ -1,0 +1,17 @@
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\bin\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.exe
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\bin\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.deps.json
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\bin\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.runtimeconfig.json
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\bin\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.dll
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\bin\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.pdb
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\obj\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\obj\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.AssemblyInfoInputs.cache
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\obj\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.AssemblyInfo.cs
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\obj\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\obj\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.dll
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\obj\Debug\net8.0\refint\Sensor_Tower_Take_Home_Assignment.dll
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\obj\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.pdb
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\obj\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.genruntimeconfig.cache
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\obj\Debug\net8.0\ref\Sensor_Tower_Take_Home_Assignment.dll
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\bin\Debug\net8.0\FuzzySharp.dll
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\obj\Debug\net8.0\Sensor_Tower_Take_Home_Assignment.csproj.AssemblyReference.cache
+C:\Users\weidn\source\repos\Sensor_Tower_Take_Home_Assignment\Sensor_Tower_Take_Home_Assignment\obj\Debug\net8.0\Sensor_T.E1A45FAB.Up2Date
